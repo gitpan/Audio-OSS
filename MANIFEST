@@ -5,3 +5,5 @@ OSS.pm
 Changes
 conftest.c
 get-constants.c.in
+test.pl
+mixer-example
